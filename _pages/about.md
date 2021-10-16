@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[View from Culler's Overlook](/images/SHSP_pano.jpg)
+![View from Culler's Overlook](/images/SHSP_pano.jpg)
 
 My master's thesis project is conducting a floristic checklist of Shenandoah River State Park in Warren County, VA.
 
