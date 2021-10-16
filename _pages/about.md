@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Floristic Checklist of Shenandoah River State Park Warren Co., VA"
+title: "Overview"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+This website highlights my thesis research project during my master's program at George Mason University. I graduated from West Virginia University with a Bachelors in Biology in the Spring of 2020 and started at GMU the following Fall. My project focuses on developing my plant identification skills that I will need to achieve my career goals of becoming an herbarium curator. 
+
+
+A Floristic Checklist of Shenandoah River State Park Warren Co., VA
+===
 ![View from Culler's Overlook](/images/SHSP_pano.jpg)
 
 My master's thesis project is conducting a floristic checklist of Shenandoah River State Park in Warren County, VA.
