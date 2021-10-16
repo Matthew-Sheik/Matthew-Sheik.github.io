@@ -1,4 +1,3 @@
-I need to insert an image of the shsp Culler's Overlook.
 ---
 permalink: /
 title: "Overview"
@@ -7,6 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
+
+I need to insert an image of the shsp Culler's Overlook.
 ---
 
 My name is Matthew Sheik and I'm currently a Graduate student at George Mason University. My thesis consists of a floristic checklist of Shenandoah River State Park in Warren County, VA. I graduate from West Virginia University in 2020 with a Bachelors in Science with an emphasis in Conservation and Environmental Science. My interests are in plant taxonomy and my career goal is to become the curator of an herbarium. 
