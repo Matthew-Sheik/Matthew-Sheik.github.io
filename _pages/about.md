@@ -10,10 +10,11 @@ redirect_from:
 
 [View from Culler's Overlook](/images/SHSP_pano.jpg)
 
-My name is Matthew Sheik and I'm currently a Graduate student at George Mason University. My thesis consists of a floristic checklist of Shenandoah River State Park in Warren County, VA. I graduate from West Virginia University in 2020 with a Bachelors in Science with an emphasis in Conservation and Environmental Science. My interests are in plant taxonomy and my career goal is to become the curator of an herbarium. 
+My master's thesis project is conducting a floristic checklist of Shenandoah River State Park in Warren County, VA.
 
-A Floristic Checklist of Shenandoah River State Park
-======
+The Park
+---
+Opening in 1999, SHSP encompasses 1619 acres in the northern Shenandoah Valley of Warren County, Virginia and is located between the Massanutten Mountains and Shenandoah National Park in the Ridge and Valley physiographic province. <a href="https://www.dcr.virginia.gov/state-parks/shenandoah-river" target="_blank">Park Website</a>
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
