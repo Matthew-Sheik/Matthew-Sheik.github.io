@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Overview"
+title: "A Floristic Checklist of Shenandoah River State Park Warren Co., VA"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
