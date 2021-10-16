@@ -15,8 +15,6 @@ A Floristic Checklist of Shenandoah River State Park Warren Co., VA
 ===
 ![View from Culler's Overlook](/images/SHSP_pano.jpg)
 
-My master's thesis project is conducting a floristic checklist of Shenandoah River State Park in Warren County, VA.
-
 The Park
 ---
 Opening in 1999, SHSP encompasses 1619 acres in the northern Shenandoah Valley of Warren County, Virginia and is located between the Massanutten Mountains and Shenandoah National Park in the Ridge and Valley physiographic province. <a href="https://www.dcr.virginia.gov/state-parks/shenandoah-river" target="_blank">Park Website</a>
