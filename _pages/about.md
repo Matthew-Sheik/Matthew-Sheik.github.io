@@ -27,5 +27,5 @@ beep boop
 -**2. Warren County Historically Undercollected**
 beep boop
 
--**3. A Complete Checklist has yet to be done for SHSP **
+-**3. A Complete Checklist has yet to be done for SHSP**
 dasfdasfdsa
