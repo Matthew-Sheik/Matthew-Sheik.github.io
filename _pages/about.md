@@ -21,11 +21,11 @@ Opening in 1999, SHSP encompasses 1619 acres in the northern Shenandoah Valley o
 
 Rationale
 ---
-**1. Presents of Rare Ecosystem Types**
+-**1. Presents of Rare Ecosystem Types**
 beep boop
 
-**2. Warren County Historically Undercollected**
+-**2. Warren County Historically Undercollected**
 beep boop
 
-**3. A Complete Checklist has yet to be done for SHSP **
+-**3. A Complete Checklist has yet to be done for SHSP **
 dasfdasfdsa
