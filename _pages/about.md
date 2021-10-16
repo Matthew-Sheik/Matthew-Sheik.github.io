@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This website highlights my thesis research project during my master's program at George Mason University. I graduated from West Virginia University with a Bachelors in Biology in the Spring of 2020 and started at GMU the following Fall. My project focuses on developing my plant identification skills that I will need to achieve my career goals of becoming an herbarium curator. 
+This website highlights my academic work including my current thesis research project during my master's program at George Mason University. I graduated from West Virginia University with a Bachelors in Biology in the Spring of 2020 and started at GMU the following Fall. My project focuses on developing my plant identification skills that I will need to achieve my career goals of becoming an herbarium curator. 
 
 
 A Floristic Checklist of Shenandoah River State Park Warren Co., VA
