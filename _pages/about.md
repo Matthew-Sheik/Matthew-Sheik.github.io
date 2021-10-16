@@ -27,7 +27,7 @@ Rationale
 
 2. **Warren County Historically Undercollected**
  
-   beep boop
+   Of the five northern Shenandoah Valley counties, Warren County ranks last in total herbarium specimens collected (n=2063). However, Waren County (**Figure 1**) ranks similarly to the other counties when looking at the number of unique taxa (n = 1172 spp. and subspp.) and the total number of collections, scaled for area (**Figure 2**). Even with these similar collection data, there are about 212 plant species that have not been colelcted in Warren County but are present in all the surrounding counties. It is likely that these species are prsent, but have not yet been documented due to the relatively sparse collection history of the county.
 
 3. **A Complete Checklist has yet to be done for SHSP**
  
