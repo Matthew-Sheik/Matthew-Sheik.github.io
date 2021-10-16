@@ -23,12 +23,12 @@ Rationale
 ---
 1. **Presents of Rare Ecosystem Types**
   
-  jdakslfj
+    jdakslfj
 
 2. **Warren County Historically Undercollected**
  
- beep boop
+   beep boop
 
 3. **A Complete Checklist has yet to be done for SHSP**
  
- dasfdasfdsa
+  dasfdasfdsa
